@@ -1,0 +1,8 @@
+# Build
+.build/
+dist/
+Headroom.app/
+*.xcodeproj
+
+# macOS
+.DS_Store
